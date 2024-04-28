@@ -33,7 +33,7 @@ function Navbar() {
               <a href="../Landing_Page/LandingPage.html">Home</a>
             </li>
             <li className="link">
-              <a href="#">Appointments</a>
+              <a href="..">Appointments</a>
             </li>
             <li className="link">
               <a href="../Sign_Up//Sign_Up.html">
@@ -50,4 +50,6 @@ function Navbar() {
       </div>
     );
   }
+
+  export default Navbar;
   

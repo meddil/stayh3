@@ -10,7 +10,6 @@ function App() {
         <BrowserRouter>
           <Navbar/>
               <Routes>
-              <Route path="/Navbar/Navbar" exact component={Appointments} />
               </Routes>
             
         </BrowserRouter>
